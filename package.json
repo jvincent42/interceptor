@@ -16,6 +16,7 @@
     "@types/react-dom": "^17.0.11",
     "@typescript-eslint/eslint-plugin": "^5.10.1",
     "@typescript-eslint/parser": "^5.10.1",
+    "devtools-protocol": "^0.0.964462",
     "esbuild": "^0.14.14",
     "eslint": "^8.7.0",
     "eslint-config-prettier": "^8.3.0",
